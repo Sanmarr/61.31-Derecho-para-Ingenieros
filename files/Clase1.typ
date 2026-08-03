@@ -53,7 +53,7 @@ jurídicas: la ley, la costumbre, la jurisprudencia y la doctrina. Pueden result
 de transformaciones políticas, sociales o técnicas.
 
 
-== La ley 
+=== #highlight(fill: rgb("#b1f2eb"))[La ley] 
 Procedimiento de sanción y  formación de leyes (nacionales y 
 provinciales)
 
@@ -78,26 +78,39 @@ No tiene sancion pero no puedo obtener beneficio de su incumplimiento (ejemplo d
 
 ]
 
-
-== Costumbre como fuente
+=== #highlight(fill: rgb("#b1f2eb"))[Costumbre como fuente]
 
 La costumbre es la repetición espontánea y sostenida de actos que 
 adquieren fuerza normativa. Se distingue de los usos sociales por su 
 obligatoriedad en contextos jurídicos.
 
-#highlight[Art. 1 CCCN]: Los usos y costumbres son vinculantes cuando la ley o las partes 
+#highlight[*Art. 1 CCCN*]: _Los usos y costumbres son vinculantes cuando la ley o las partes 
 se remiten a ellas o cuando la situación no está regulada, siempre que no 
-contravengan el ordenamiento.
+contravengan el ordenamiento._
 
-#box(
-  fill: luma(90%),
-  inset: 10pt
-)[
-*Notas de Clase*:
+=== #highlight(fill: rgb("#b1f2eb"))[Jurisprudencia]
+
+Conjunto de decisiones reiteradas de los 
+tribunales. Constituye una pauta práctica 
+de interpretación. En nuestro sistema, los 
+jueces no están vinculados estrictamente 
+por precedentes como en otros modelos.
+
+Función: uniformar criterios, aportar 
+seguridad jurídica y orientar la aplicación 
+de la ley.
+
+=== #highlight(fill: rgb("#b1f2eb"))[Doctrina]
+
+Conjunto de opiniones y estudios de autores acreditados que elaboran 
+teorías y soluciones jurídicas. No es fuente obligatoria, pero orienta a jueces, 
+legisladores y doctrinarios en la interpretación y evolución del Derecho.
+
+#figure(
+  image("images/caj.png", width: 80%)
+)
 
 
-
-]
 
 
 
