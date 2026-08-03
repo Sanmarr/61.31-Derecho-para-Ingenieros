@@ -2,7 +2,7 @@
   author: "Ignacio Sammartino",
   description: 
     "template de Resumenes",
-  keywords: "Microelectronica", 
+  keywords: "Derecho", 
   date: auto
 )
 
@@ -95,7 +95,7 @@ Resumen
 #set text(fill: rgb("#000000"))
 
 #set page(numbering: "1 of 1")
-#set heading(numbering: "1 1 1")
+//#set heading(numbering: "1 1 1")
 
 #set page(columns: 2)
 #outline()
