@@ -95,7 +95,7 @@ Resumen
 #set text(fill: rgb("#000000"))
 
 #set page(numbering: "1 of 1")
-//#set heading(numbering: "1 1 1")
+#set heading(numbering: "1. 1. 1.")
 
 #set page(columns: 2)
 #outline()
@@ -103,7 +103,7 @@ Resumen
 
 
 #pagebreak()
-#include "files/Clase1.typ"
+#include "files/Clase.typ"
 
 
 
